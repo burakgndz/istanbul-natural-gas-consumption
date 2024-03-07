@@ -9,6 +9,6 @@ In this project, we are asked to choose a dataset from İBB open data portal and
 <li> While natural gas usage is the least in Adalar District, the highest consumption is in Esenyurt District. </li>
 </ul>
 
-#### <a href= "https://lookerstudio.google.com/reporting/466055bf-8893-420a-8076-d5596b87d70a/page/WC3nD">Report Link</a> 
+#### <a href= "https://lookerstudio.google.com/reporting/466055bf-8893-420a-8076-d5596b87d70a/page/WC3nD">Interactive Report Link</a> 
 
 
